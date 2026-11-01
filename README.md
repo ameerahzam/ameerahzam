@@ -2,7 +2,9 @@
 
 <!--
 **ameerahzam/ameerahzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+git clone https://github.com/heydamir/unslop
+New-Item -ItemType Directory -Force "$HOME\.claude\skills"
+Copy-Item -Recurse unslop\skills\unslop "$HOME\.claude\skills\"
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
